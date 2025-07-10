@@ -1,0 +1,67 @@
+.home {
+  display: flex;
+  width: 100vw; /* full viewport width */
+  min-height: 100vh;
+  box-sizing: border-box;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin-bottom: 0 !important;
+  margin-top: 5rem !important;
+  text-decoration: underline 4px solid #223077;
+  font-size: 200px !important;
+  font-family: 'Jomhuria', serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 0.5;
+}
+
+.leftSide {
+  gap: 3rem;
+  padding-left: 80px;
+}
+
+.rightSide {
+  align-items: center;
+  background-color: #223077;
+  justify-content: center;
+}
+
+.leftSide,
+.rightSide {
+  display: flex;
+  flex: 1;
+  box-sizing: border-box;
+  flex-direction: column;
+  min-height: 100vh;
+  height: auto;
+}
+
+.title {
+  margin-bottom: 16px;
+  font-size: 2.5rem;
+}
+
+.leftSide h3 {
+  margin-top: 0 !important;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  word-wrap: break-word;
+  padding-right: 2rem;
+}
+
+.photoUpload {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 350px;
+  background-color: #f0f0f0;
+  border: 8px dashed #ccc;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
