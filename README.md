@@ -33,8 +33,4 @@ DIY-AI is a **full-stack React.js and Node.js web app** which will use the follo
 
 ## 📷 Design Snippet
 
-![diyai](https://github.com/user-attachments/assets/4963c080-6ebd-4231-a30e-185af0a0a15e)
-
-
-
-
+<img width="1194" height="743" alt="Screenshot 2025-07-13 at 00 14 21" src="https://github.com/user-attachments/assets/287bfe1c-15f8-474e-a476-7214a37be237" />
