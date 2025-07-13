@@ -1,4 +1,4 @@
-This project is a work in progress. Here's an overview so far and a quick demo video of the progress:
+This project is a work in progress. Here's an overview so far and below a quick demo video of the progress:
 
 # 🛠️ DIY-AI
 
