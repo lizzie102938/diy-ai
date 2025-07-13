@@ -33,5 +33,7 @@ DIY-AI is a **full-stack React.js and Node.js web app** which uses the following
 
 ## 📷 Demo of progress
 
-https://github.com/user-attachments/assets/82aad3b1-b973-4f0f-a866-5ad1e143b66d
+https://github.com/user-attachments/assets/d7a6bd25-3bda-432b-b12f-af106ba6b222
+
+
 
