@@ -1,6 +1,6 @@
 .home {
   display: flex;
-  width: 100vw; /* full viewport width */
+  width: 100vw;
   min-height: 100vh;
   box-sizing: border-box;
   align-items: center;
@@ -39,11 +39,13 @@ h1 {
   flex-direction: column;
   min-height: 100vh;
   height: auto;
+  gap: 2rem;
 }
 
 .title {
   margin-bottom: 16px;
   font-size: 2.5rem;
+  padding-top: 1rem;
 }
 
 .leftSide h3 {
@@ -63,5 +65,22 @@ h1 {
   border: 8px dashed #ccc;
   align-items: center;
   justify-content: center;
+  margin: 0 auto;
   color: black;
+}
+
+.switchContainer {
+  display: flex;
+  gap: 1rem;
+}
+
+.switchLabel {
+  font-size: 1.2rem;
+  color: #fff;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.preview {
+  margin-top: 10px;
 }

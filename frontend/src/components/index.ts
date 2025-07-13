@@ -1,2 +1,2 @@
-import Home from './Home/Home';
-export { Home };
+import Button from './Button/Button';
+export { Button };
